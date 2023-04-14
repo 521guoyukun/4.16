@@ -1,4 +1,4 @@
-"""This model provide a ChatGPT-compatible Restful server api for chat completion.
+"""This module provides a ChatGPT-compatible Restful API for chat completion.
 
 Usage:
 
